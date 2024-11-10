@@ -1,0 +1,26 @@
+﻿  Annak-Game.cpp
+  AssertsStage.cpp
+  Build.cpp
+  Command.cpp
+  Coordinate.cpp
+  Input.cpp
+  InputStage.cpp
+C:\הנדסאים\Bootcamp\Annak\Annak-Game-Update\InputStage.cpp(71,12): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\הנדסאים\Bootcamp\Annak\Annak-Game-Update\InputStage.cpp(255,16): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  openJson.cpp
+  StartStage.cpp
+C:\הנדסאים\Bootcamp\Annak\Annak-Game-Update\StartStage.cpp(55,63): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\הנדסאים\Bootcamp\Annak\Annak-Game-Update\StartStage.cpp(60,43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\הנדסאים\Bootcamp\Annak\Annak-Game-Update\StartStage.cpp(65,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\הנדסאים\Bootcamp\Annak\Annak-Game-Update\StartStage.cpp(70,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Tile.cpp
+C:\הנדסאים\Bootcamp\Annak\Annak-Game-Update\Tile.cpp(16,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Utility.cpp
+  vehicle.cpp
+  World.cpp
+C:\הנדסאים\Bootcamp\Annak\Annak-Game-Update\World.cpp(39,229): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\הנדסאים\Bootcamp\Annak\Annak-Game-Update\World.cpp(200,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\הנדסאים\Bootcamp\Annak\Annak-Game-Update\World.cpp(223,19): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  WorldStage.cpp
+  Generating Code...
+  Annak-Game.vcxproj -> C:\הנדסאים\Bootcamp\Annak\Annak-Game-Update\x64\Debug\Annak-Game.exe
